@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo: null,
     };
 
-    this.videoSearch('surfboards');
+    this.videoSearch('jones big ass truck rental and storage');
   }
 
   videoSearch(term) {
