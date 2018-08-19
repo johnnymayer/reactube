@@ -14,7 +14,7 @@
 .video-detail .details {
   margin-top: 10px;
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid black;
   border-radius: 4px;
 }
 
@@ -23,5 +23,13 @@
 }
 
 .list-group-item:hover {
-  background-color: #eee;
+  background-color: rgba(176, 176, 176, .25);
+}
+
+.header {
+  margin: 4px;
+  font-size: 4vw;
+  text-align: center;
+  text-shadow: 0 0 4px black;
+  background-color: rgba(176, 176, 176, .25);
 }
